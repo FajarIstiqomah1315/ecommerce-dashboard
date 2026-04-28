@@ -70,7 +70,7 @@ Dashboard dibuat menggunakan Streamlit dan menampilkan:
     
 ▶️ Cara Menjalankan Dashboard
 # 1. Clone Repository
-git clone https://github.com/username/proyek-ecommerce.git
+git clone https://github.com/fajaristiqomah1315/ecommerce-dashboard.git
 cd proyek-ecommerce
 
 # 2. Buat Virtual Environment (Opsional tapi disarankan)
